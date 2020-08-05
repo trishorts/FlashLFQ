@@ -2,7 +2,7 @@
 
 # Vintage
 FlashLFQ Version 0.1.112 was capture as branch vintageFlashLFQ.0.1.112
-That version was last release prior to bayesian analysis was integrated
+[That version](https://github.com/smith-chem-wisc/FlashLFQ/releases/tag/0.1.112) was last release prior to bayesian analysis was integrated
 
 # About
 FlashLFQ is an ultrafast label-free quantification algorithm for mass-spectrometry proteomics. 
