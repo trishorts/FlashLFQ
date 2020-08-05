@@ -1,5 +1,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5mue0eiapbb6gk0u?svg=true)](https://ci.appveyor.com/project/robertmillikin/flashlfq)
 
+# Vintage
+FlashLFQ Version 0.1.112 was capture as branch vintageFlashLFQ.0.1.112
+That version was last release prior to bayesian analysis was integrated
+
 # About
 FlashLFQ is an ultrafast label-free quantification algorithm for mass-spectrometry proteomics. 
 
